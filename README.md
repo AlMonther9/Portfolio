@@ -56,6 +56,6 @@ SignRaise makes communication inclusive, intuitive, and powerful.
 
 ---
 
-### 📋 [Hirease](https://front-end-6tex.vercel.app/)  
+### 📋 [Hirease](https://front-end-steel-five-64.vercel.app/)  
 **Simplifying hiring, onboarding, and feedback with clarity.**  
 Hirease is a modern platform designed to support HR teams and new employees through **streamlined task management, onboarding flows, and internal reviews**. Built with **Next.js** and **Shadcn/UI**  ...
