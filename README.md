@@ -5,13 +5,16 @@ This repository holds a collection of my live projects—each crafted with inten
 
 ---
 
-### 💄 [Naderah - نَضِرَة](https://nadera.vercel.app/)  
-**For the radiant beauty of Arab women.**  
-An elegant, bilingual e-commerce platform offering high-quality **cosmetics and skincare products**. Inspired by Arab heritage and built using **Next.js** and Django, Naderah blends luxury, craftsmanship, and natural care. It features:
-- Smart filtering and product categories
-- Seamless bilingual UX
-- Discounts, bundles, and customer reviews  
-All crafted with love—for timeless beauty and self-care rooted in tradition.
+### 🌸 [Naderah - نَضِرَة](https://www.naderah.net/)
+
+**For the empowered beauty of Arab identity.**
+A refined, bilingual e-commerce platform dedicated to **self-care and skincare** rooted in Arab heritage. Naderah celebrates authenticity, wellness, and tradition—offering high-quality products that nurture both skin and spirit. Built with **Next.js** and Django, it features:
+
+* Intuitive smart filtering and curated product categories
+* Effortless bilingual experience (Arabic & English)
+* Special bundles, seasonal discounts, and authentic customer reviews
+
+Every element is thoughtfully designed to reflect the elegance, strength, and natural beauty of Arab women.
 
 ---
 
@@ -34,7 +37,7 @@ Here's the final snippet with that correction included for easy copy-paste into 
 
 ---
 
-### 🌸 [Leaf & Bloom](https://leaf-bloom.vercel.app/)  
+### ☘️ [Leaf & Bloom](https://leaf-bloom.vercel.app/)  
 **Nature + community + curated care.**  
 Leaf & Bloom is a peaceful plant-centric platform designed to **bring nature into your life**—whether you're a beginner or a seasoned grower. Built with **React** and styled with **TailwindCSS**, it includes:
 - A curated plant shop (succulents, tropicals, air-purifying & aromatic plants)  
