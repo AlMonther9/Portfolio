@@ -29,11 +29,10 @@ With real case studies and a growing impact, Vacts aims to lead digital transfor
 
 ---
 
-Perfect! Go ahead and tweak the line for Leaf & Bloom like this:
 
-> Built with **React** and styled with **TailwindCSS**
-
-Here's the final snippet with that correction included for easy copy-paste into your `README.md`:
+### 📋 [Hirease](https://front-end-steel-five-64.vercel.app/)  
+**Simplifying hiring, onboarding, and feedback with clarity.**  
+Hirease is a modern platform with a Community, Jobs, and Companies. designed to support HR teams and new employees through **streamlined task management, onboarding flows, and internal reviews**. Built with **Next.js** and **Nest.js**  ...
 
 ---
 
@@ -57,8 +56,3 @@ Features include:
 - Learning tools and virtual practice for sign language  
 SignRaise makes communication inclusive, intuitive, and powerful.
 
----
-
-### 📋 [Hirease](https://front-end-steel-five-64.vercel.app/)  
-**Simplifying hiring, onboarding, and feedback with clarity.**  
-Hirease is a modern platform designed to support HR teams and new employees through **streamlined task management, onboarding flows, and internal reviews**. Built with **Next.js** and **Shadcn/UI**  ...
