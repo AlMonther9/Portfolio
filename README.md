@@ -14,7 +14,7 @@ A refined, bilingual e-commerce platform dedicated to **self-care and skincare**
 * Effortless bilingual experience (Arabic & English)
 * Special bundles, seasonal discounts, and authentic customer reviews
 
-Every element is thoughtfully designed to reflect the elegance, strength, and natural beauty of Arab women.
+Every element is thoughtfully designed to reflect the elegance, strength, and natural beauty of Arab identity.
 
 ---
 
