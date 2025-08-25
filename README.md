@@ -96,3 +96,4 @@ A sleek dashboard for tracking deals, team members, and project timelines with *
 Complete with dark/light mode, custom brand gradients, glass morphism effects, and smooth animations powered by **Framer Motion**.
 
 ---
+## [Favorite Movies & Series personal liberary](https://cyberlib.vercel.app/)
