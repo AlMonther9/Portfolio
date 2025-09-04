@@ -48,6 +48,12 @@ Hirease is a modern platform with a Community, Jobs, and Companies. designed to 
 
 ---
 
+###  [Hamber](https://hamber.vercel.app/)
+
+**- AI Toolkit for E-commerce | Launch Your Store in Minutes**
+
+---
+
 ### ️ [Leaf & Bloom](https://leaf-bloom.vercel.app/)
 
 **Nature + community + curated care.**
@@ -60,6 +66,22 @@ Leaf & Bloom is a peaceful plant-centric platform designed to **bring nature int
 
 
 It's tech with a soul: grounded in growth, calm, and beautiful design.
+
+---
+
+### [Vacts System](https://erp.vacts.net/)
+
+**Modern project management with style and substance.**
+
+A sleek dashboard for tracking deals, team members, and project timelines with **real-time analytics and beautiful interactions**. Built with **Next.js 15**, **TypeScript**, and **shadcn/ui**, it features:
+
+- **Dashboard Overview** - Real-time stats and project insights
+- **Deal Management** - Track projects, clients, and progress with visual indicators
+- **Team Management** - Manage members, roles, and assignments
+- **Timeline & Analytics** - Activity feeds and performance metrics
+
+
+Complete with dark/light mode, custom brand gradients, glass morphism effects, and smooth animations powered by **Framer Motion**.
 
 ---
 
@@ -81,19 +103,20 @@ SignRaise makes communication inclusive, intuitive, and powerful.
 
 ---
 
-### [Vacts System](https://erp.vacts.net/)
+## [Favorite Movies & Series personal liberary](https://cyberlib.vercel.app/)
 
-**Modern project management with style and substance.**
-
-A sleek dashboard for tracking deals, team members, and project timelines with **real-time analytics and beautiful interactions**. Built with **Next.js 15**, **TypeScript**, and **shadcn/ui**, it features:
-
-- **Dashboard Overview** - Real-time stats and project insights
-- **Deal Management** - Track projects, clients, and progress with visual indicators
-- **Team Management** - Manage members, roles, and assignments
-- **Timeline & Analytics** - Activity feeds and performance metrics
-
-
-Complete with dark/light mode, custom brand gradients, glass morphism effects, and smooth animations powered by **Framer Motion**.
+**A simple app to track your favorite movies and TV shows**
 
 ---
-## [Favorite Movies & Series personal liberary](https://cyberlib.vercel.app/)
+
+## [Happy Birthday](https://happy-birthday-nu-lovat.vercel.app/)
+
+**An interactive birthday celebration web application built with Next.js, React, and Tailwind CSS. This application allows users to create personalized birthday celebrations with interactive candle-blowing using microphone detection, wish-making, and social sharing features**
+
+---
+
+## [Frontend Mentor Challenges](https://github.com/AlMonther9/Frontend-Mentor-Challenges)
+
+**This repository contains links to all my Frontend Mentor challenges repositories. yet**
+
+---
