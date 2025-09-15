@@ -52,6 +52,8 @@ Hirease is a modern platform with a Community, Jobs, and Companies. designed to 
 
 **- AI Toolkit for E-commerce | Launch Your Store in Minutes**
 
+**Main Site**
+
 ---
 
 ### ️ [Leaf & Bloom](https://leaf-bloom.vercel.app/)
