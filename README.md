@@ -21,23 +21,6 @@ Every element is thoughtfully designed to reflect the elegance, strength, and na
 
 ---
 
-### [Vacts](https://www.vacts.net/)
-
-**Production-ready AI solutions, built for the Middle East.**
-
-Vacts is an AI startup empowering businesses in Egypt and Saudi Arabia with **custom AI Agents, Chatbots, and Workflows** that are fast, bilingual, and secure.
-
-Key features:
-
-- 24/7 Arabic-English chatbots
-- Real estate lead automation & e-commerce AI support
-- Secure, scalable deployment in days—not months
-
-
-With real case studies and a growing impact, Vacts aims to lead digital transformation across the region.
-
----
-
 ### [Hirease](https://hirease.vercel.app/)
 
 **Simplifying hiring, onboarding, and feedback with clarity.**
@@ -53,6 +36,23 @@ Hirease is a modern platform with a Community, Jobs, and Companies. designed to 
 **- AI Toolkit for E-commerce | Launch Your Store in Minutes**
 
 **Main Site**
+
+---
+
+### [Vacts](https://www.vacts.net/)
+
+**Production-ready AI solutions, built for the Middle East.**
+
+Vacts is an AI startup empowering businesses in Egypt and Saudi Arabia with **custom AI Agents, Chatbots, and Workflows** that are fast, bilingual, and secure.
+
+Key features:
+
+- 24/7 Arabic-English chatbots
+- Real estate lead automation & e-commerce AI support
+- Secure, scalable deployment in days—not months
+
+
+With real case studies and a growing impact, Vacts aims to lead digital transformation across the region.
 
 ---
 
