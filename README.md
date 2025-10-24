@@ -21,7 +21,7 @@ Every element is thoughtfully designed to reflect the elegance, strength, and na
 
 ---
 
-### [Hirease](https://hirease.vercel.app/)
+### [Hirease](https://www.hirease.me)
 
 **Simplifying hiring, onboarding, and feedback with clarity.**
 
@@ -38,6 +38,10 @@ Hirease is a modern platform with a Community, Jobs, and Companies. designed to 
 **Main Site**
 
 ---
+
+### [Hamber-Hub](https://hamber-hub.netlify.app/)
+**- AI Toolkit for E-commerce | Launch Your Store in Minutes**
+**Dashboard**
 
 ### [Vacts](https://www.vacts.net/)
 
