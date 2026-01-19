@@ -31,7 +31,7 @@ Hirease is a modern platform with a Community, Jobs, and Companies. designed to 
 
 ---
 
-###  [Hamber](https://hamber.vercel.app/)
+###  [Hamber](https://hamber-hub.com/en)
 
 **- AI Toolkit for E-commerce | Launch Your Store in Minutes**
 
@@ -39,7 +39,7 @@ Hirease is a modern platform with a Community, Jobs, and Companies. designed to 
 
 ---
 
-### [Hamber-Hub](https://hamber-hub.netlify.app/)
+### [Hamber-Hub](https://dashboard.hamber-hub.com/en/dashboard)
 **- AI Toolkit for E-commerce | Launch Your Store in Minutes**
 **Dashboard**
 
