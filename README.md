@@ -39,9 +39,13 @@ Hirease is a modern platform with a Community, Jobs, and Companies. designed to 
 
 ---
 
-### [Hamber-Hub](https://dashboard.hamber-hub.com/en/dashboard)
+### [Hamber-Hub](https://hamber-hub.com/dashboard/en/dashboard)
 **- AI Toolkit for E-commerce | Launch Your Store in Minutes**
 **Dashboard**
+
+### [Hamber-Hub](https://hamber-hub.com/store/test1/en)
+**- AI Toolkit for E-commerce | Launch Your Store in Minutes**
+**e-commerce end-user**
 
 ### [Vacts](https://www.vacts.net/)
 
@@ -59,6 +63,35 @@ Key features:
 With real case studies and a growing impact, Vacts aims to lead digital transformation across the region.
 
 ---
+
+### [Consoleya (Co-working AI)](https://consoleya.vacts.cloud/)
+
+Multimodal Interaction: Developed an AI-driven agent for a physical co-working space, enabling multimodal interactions including image processing and persistent WebSocket connections for seamless workspace management.
+
+
+Global Accessibility: Implemented full RTL/LTR support and responsive design, ensuring a consistent user experience across different devices and languages.
+
+
+Functional UI: Integrated advanced features such as image preview modals and dynamic link support, managed through a cohesive UI/UX design featuring custom animations and branding.
+
+
+Tech Stack: Next.js, Socket.io, TypeScript, UI/UX Design (Figma), Tailwind CSS.
+
+### [Argaam (Financial AI) | Vacts](https://argaam.vacts.cloud/)
+
+Design & Engineering: Architected and designed a high-performance financial interface from scratch, establishing a custom design system with specialized typography, color palettes, and complex animations to ensure clarity in dense data visualization.
+
+
+Real-time UX: Implemented Socket.io for bi-directional streaming, featuring a custom "real-time thinking" state to maintain user engagement during asynchronous LLM processing.
+
+
+Dynamic Localization: Developed a comprehensive RTL/LTR language switcher with context-aware logic that tailors AI response messages based on the user's input language.
+
+
+Advanced UI Features: Engineered a fully responsive layout including image preview pop-ups, rich-text hyperlink support, and optimized mobile interactions.
+
+
+Tech Stack: Next.js 15, TypeScript, Socket.io, Framer Motion, Tailwind CSS.
 
 ### ️ [Leaf & Bloom](https://leaf-bloom.vercel.app/)
 
