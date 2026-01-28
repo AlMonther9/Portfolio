@@ -10,14 +10,14 @@ This repository holds a collection of my live projects—each crafted with inten
 
 **For the empowered beauty of Arab identity.**
 
-A refined, bilingual e-commerce platform dedicated to **self-care and skincare** rooted in Arab heritage. Naderah celebrates authenticity, wellness, and tradition—offering high-quality products that nurture both skin and spirit. Built with **Next.js** and Django, it features:
+A refined, bilingual e-commerce platform dedicated to **self-care and skincare** rooted in Arab heritage. Naderah celebrates authenticity, wellness, and tradition—offering high-quality products that nurture both skin and spirit.
 
-- Intuitive smart filtering and curated product categories
-- Effortless bilingual experience (Arabic & English)
-- Special bundles, seasonal discounts, and authentic customer reviews
+**Key Features:**
+- **Advanced Tracking & Commerce:** Integrated GTM for tracking media buyer performance (Meta Pixel/Google Ads) and a custom engine to export product data into Facebook Catalog-ready Excel sheets.
+- **Smart Filtering:** Intuitive categorization and sorting for a seamless shopping experience.
+- **Bilingual Core:** Effortless switching between Arabic & English (RTL/LTR).
 
-
-Every element is thoughtfully designed to reflect the elegance, strength, and natural beauty of Arab identity.
+*Tech Stack: Next.js, Django, GTM*
 
 ---
 
@@ -25,27 +25,29 @@ Every element is thoughtfully designed to reflect the elegance, strength, and na
 
 **Simplifying hiring, onboarding, and feedback with clarity.**
 
-Hirease is a modern platform with a Community, Jobs, and Companies. designed to support HR teams and new employees through **streamlined task management, onboarding flows, and internal reviews**. Built with **Next.js** and **Nest.js**
+Hirease is a modern platform designed to support HR teams and new employees through **streamlined task management, onboarding flows, and internal reviews**. It bridges the gap between companies and talent with a dedicated Community, Job Board, and Company profiles.
 
-...
+**Key Features:**
+- **Real-Time Interaction:** Powered by **Pusher** sockets for instant notifications and updates.
+- **Efficient Data:** Utilizes **GraphQL** for flexible and optimized data querying.
+- **Task Management:** comprehensive dashboards for tracking onboarding progress.
 
----
-
-###  [Hamber](https://hamber-hub.com/en)
-
-**- AI Toolkit for E-commerce | Launch Your Store in Minutes**
-
-**Main Site**
+*Tech Stack: Next.js, Nest.js, GraphQL, Pusher*
 
 ---
 
-### [Hamber-Hub](https://hamber-hub.com/dashboard/en/dashboard)
-**- AI Toolkit for E-commerce | Launch Your Store in Minutes**
-**Dashboard**
+### [Hamber Ecosystem](https://hamber-hub.com/en)
 
-### [Hamber-Hub](https://hamber-hub.com/store/test1/en)
-**- AI Toolkit for E-commerce | Launch Your Store in Minutes**
-**e-commerce end-user**
+**AI Toolkit for E-commerce | Launch Your Store in Minutes**
+
+Hamber is not just a website—it is a **three-part connected ecosystem** designed to democratize e-commerce. It seamlessly links marketing, management, and the end-user shopping experience.
+
+**The Ecosystem:**
+1.  **[The Main Platform](https://hamber-hub.com/en):** The gateway to the service, featuring high-conversion landing pages and onboarding flows.
+2.  **[The Dashboard](https://hamber-hub.com/dashboard/en/dashboard):** A powerful command center for business owners to manage inventory, analyze metrics, and customize their brand.
+3.  **[The Storefront Engine](https://hamber-hub.com/store/test1/en):** An automated generator that deploys fully functional, SEO-optimized e-commerce stores for tenants instantly.
+
+---
 
 ### [Vacts](https://www.vacts.net/)
 
@@ -53,58 +55,44 @@ Hirease is a modern platform with a Community, Jobs, and Companies. designed to 
 
 Vacts is an AI startup empowering businesses in Egypt and Saudi Arabia with **custom AI Agents, Chatbots, and Workflows** that are fast, bilingual, and secure.
 
-Key features:
-
+**Key Features:**
 - 24/7 Arabic-English chatbots
 - Real estate lead automation & e-commerce AI support
 - Secure, scalable deployment in days—not months
 
+**The Evolution:**
+*I believe in rapid iteration. Vacts has evolved through five major distinct versions to match our changing vision:*
+[v1](https://vacts-v1.vercel.app) • [v2](https://vacts-v2.vercel.app) • [v3](https://vacts-v3.vercel.app) • [v4](https://vacts-v4.vercel.app) • [v5 (Current)](https://www.vacts.net/)
 
-With real case studies and a growing impact, Vacts aims to lead digital transformation across the region.
+---
+
+### [Argaam (Financial AI)](https://argaam.vacts.cloud/)
+
+**High-performance financial intelligence.**
+
+Architected a specialized AI interface for financial data, designed to make dense information readable and engaging.
+
+**Key Features:**
+- **Real-time "Thinking":** Implemented **Socket.io** to stream AI status updates, keeping users engaged during complex analysis.
+- **Dynamic Localization:** Intelligent RTL/LTR switcher that adapts the UI and response language based on user input.
+- **Visual Clarity:** A custom design system with specialized typography and animations for financial data visualization.
+
+*Tech Stack: Next.js 15, TypeScript, Socket.io, Framer Motion*
 
 ---
 
 ### [Consoleya (Co-working AI)](https://consoleya.vacts.cloud/)
 
-Multimodal Interaction: Developed an AI-driven agent for a physical co-working space, enabling multimodal interactions including image processing and persistent WebSocket connections for seamless workspace management.
+**The smart assistant for modern workspaces.**
 
+A multimodal AI agent developed for Consoleya’s physical co-working space, bridging the gap between digital assistance and physical management.
 
-Global Accessibility: Implemented full RTL/LTR support and responsive design, ensuring a consistent user experience across different devices and languages.
+**Key Features:**
+- **Multimodal Support:** Handles image processing and text interactions via persistent WebSocket connections.
+- **Global Accessibility:** Fully responsive design with perfect RTL/LTR support for a diverse community.
+- **Rich UI:** Features image preview modals, dynamic link parsing, and seamless animations.
 
-
-Functional UI: Integrated advanced features such as image preview modals and dynamic link support, managed through a cohesive UI/UX design featuring custom animations and branding.
-
-
-Tech Stack: Next.js, Socket.io, TypeScript, UI/UX Design (Figma), Tailwind CSS.
-
-### [Argaam (Financial AI) | Vacts](https://argaam.vacts.cloud/)
-
-Design & Engineering: Architected and designed a high-performance financial interface from scratch, establishing a custom design system with specialized typography, color palettes, and complex animations to ensure clarity in dense data visualization.
-
-
-Real-time UX: Implemented Socket.io for bi-directional streaming, featuring a custom "real-time thinking" state to maintain user engagement during asynchronous LLM processing.
-
-
-Dynamic Localization: Developed a comprehensive RTL/LTR language switcher with context-aware logic that tailors AI response messages based on the user's input language.
-
-
-Advanced UI Features: Engineered a fully responsive layout including image preview pop-ups, rich-text hyperlink support, and optimized mobile interactions.
-
-
-Tech Stack: Next.js 15, TypeScript, Socket.io, Framer Motion, Tailwind CSS.
-
-### ️ [Leaf & Bloom](https://leaf-bloom.vercel.app/)
-
-**Nature + community + curated care.**
-
-Leaf & Bloom is a peaceful plant-centric platform designed to **bring nature into your life**—whether you're a beginner or a seasoned grower. Built with **React** and styled with **TailwindCSS**, it includes:
-
-- A curated plant shop (succulents, tropicals, air-purifying & aromatic plants)
-- A rich **Plant Encyclopedia**
-- A blog, care guides, and community features
-
-
-It's tech with a soul: grounded in growth, calm, and beautiful design.
+*Tech Stack: Next.js, Socket.io, TypeScript, Tailwind CSS*
 
 ---
 
@@ -112,15 +100,28 @@ It's tech with a soul: grounded in growth, calm, and beautiful design.
 
 **Modern project management with style and substance.**
 
-A sleek dashboard for tracking deals, team members, and project timelines with **real-time analytics and beautiful interactions**. Built with **Next.js 15**, **TypeScript**, and **shadcn/ui**, it features:
+A sleek dashboard for tracking deals, team members, and project timelines with **real-time analytics and beautiful interactions**.
 
-- **Dashboard Overview** - Real-time stats and project insights
-- **Deal Management** - Track projects, clients, and progress with visual indicators
-- **Team Management** - Manage members, roles, and assignments
-- **Timeline & Analytics** - Activity feeds and performance metrics
+**Key Features:**
+- **Dashboard Overview:** Real-time stats and project insights.
+- **Deal & Team Management:** Visual tracking for projects, clients, and role assignments.
+- **Refined UX:** Dark/light mode, glassmorphism effects, and smooth Framer Motion animations.
 
+*Tech Stack: Next.js 15, TypeScript, shadcn/ui*
 
-Complete with dark/light mode, custom brand gradients, glass morphism effects, and smooth animations powered by **Framer Motion**.
+---
+
+### [Leaf & Bloom](https://leaf-bloom.vercel.app/)
+
+**Nature + community + curated care.**
+
+Leaf & Bloom is a peaceful plant-centric platform designed to **bring nature into your life**—whether you're a beginner or a seasoned grower.
+
+- A curated plant shop (succulents, tropicals, air-purifying & aromatic plants)
+- A rich **Plant Encyclopedia**
+- A blog, care guides, and community features
+
+*Tech Stack: React, TailwindCSS*
 
 ---
 
@@ -128,34 +129,26 @@ Complete with dark/light mode, custom brand gradients, glass morphism effects, a
 
 **Bridging the gap between the deaf and hearing with AI.**
 
-Born from an AI hackathon (🏅Top 6 out of 300 teams!), SignRaise is an accessibility-focused platform built with **Nuxt.js** that transforms how deaf and hearing individuals communicate.
+Born from an AI hackathon (🏅Top 6 out of 300 teams!), SignRaise is an accessibility-focused platform that transforms how deaf and hearing individuals communicate.
 
-Features include:
+**Key Features:**
+- **Real-time Translation:** Sign ↔️ Text ↔️ Speech video calls.
+- **Live Tools:** Camera translator for daily interactions and AI transcription.
+- **Education:** Virtual practice tools for learning sign language.
 
-- **Real-time video call translation** (sign ↔️ text ↔️ speech)
-- **Live camera translator** for day-to-day interactions
-- **Video/audio transcription** via AI
-- Learning tools and virtual practice for sign language
-
-
-SignRaise makes communication inclusive, intuitive, and powerful.
+*Tech Stack: Nuxt.js, AI Integration*
 
 ---
 
-## [Favorite Movies & Series personal liberary](https://cyberlib.vercel.app/)
-
-**A simple app to track your favorite movies and TV shows**
-
----
-
-## [Happy Birthday](https://happy-birthday-nu-lovat.vercel.app/)
-
-**An interactive birthday celebration web application built with Next.js, React, and Tailwind CSS. This application allows users to create personalized birthday celebrations with interactive candle-blowing using microphone detection, wish-making, and social sharing features**
+### [Favorite Movies & Series](https://cyberlib.vercel.app/)
+**A personal library to track and rate favorite entertainment.**
 
 ---
 
-## [Frontend Mentor Challenges](https://github.com/AlMonther9/Frontend-Mentor-Challenges)
-
-**This repository contains links to all my Frontend Mentor challenges repositories. yet**
+### [Happy Birthday](https://happy-birthday-nu-lovat.vercel.app/)
+**An interactive celebration app featuring microphone detection for "blowing out" candles, wish-making, and social sharing.**
 
 ---
+
+### [Frontend Mentor Challenges](https://github.com/AlMonther9/Frontend-Mentor-Challenges)
+**A repository collection of my solutions to various Frontend Mentor design challenges.**
