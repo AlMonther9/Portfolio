@@ -49,6 +49,28 @@ Hamber is not just a website—it is a **three-part connected ecosystem** design
 
 ---
 
+This is a perfect addition. Adding "Full-Stack" highlights that you aren't just styling a pretty interface—you’ve built the "brain" and the "memory" (the server and the database) behind it.
+
+Here is the updated, full-stack description for **Shaghaf**, ready to be added to your portfolio:
+
+---
+
+### [Shaghaf - شَغَف](https://shaghaf.site/)
+
+**A full-stack sanctuary for creativity, learning, and self-discovery.**
+
+Shaghaf is a comprehensive **full-stack educational and gallery platform** designed as a digital refuge for women to explore art and personal growth. It balances a high-performance user experience with a robust administrative backbone.
+
+**Full-Stack Architecture:**
+* **Dynamic Data Engine:** Built with a **MySQL** database and **Prisma ORM**, the platform serves real-time course data, detailed curricula, and creative projects without the need for manual code updates.
+* **Secure Admin Dashboard:** A private, authenticated management suite protected by **NextAuth**, allowing for seamless, live control over site content, course availability, and gallery assets.
+* **Optimized Performance:** Implemented **Next.js App Router** with strategic data revalidation and server-side rendering to ensure the "sanctuary" feels fluid and lightning-fast.
+* **Bespoke UI/UX:** A custom-designed interface using **Tailwind CSS** that reflects a calm, creative aesthetic while maintaining accessibility and responsive integrity.
+
+*Tech Stack: Next.js (Full-Stack), Prisma, MySQL, NextAuth, Tailwind CSS*
+
+---
+
 ### [Vacts](https://www.vacts.net/)
 
 **Production-ready AI solutions, built for the Middle East.**
