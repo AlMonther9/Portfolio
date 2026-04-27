@@ -162,6 +162,10 @@ Born from an AI hackathon (🏅Top 6 out of 300 teams!), SignRaise is an accessi
 
 ---
 
+[UniCare](https://uni-care-front.vercel.app/)
+
+---
+
 ### [Favorite Movies & Series](https://cyberlib.vercel.app/)
 **A personal library to track and rate favorite entertainment.**
 
