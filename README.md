@@ -6,7 +6,7 @@ This repository holds a collection of my live projects—each crafted with inten
 
 ---
 
-### [My Portfolio website](almonther-portfolio.vercel.app)
+[![Portfolio Preview](almonther's-portfolio.png)](https://almonther-portfolio.vercel.app)
 
 
 ### [Naderah - نَضِرَة](https://www.naderah.net/)
